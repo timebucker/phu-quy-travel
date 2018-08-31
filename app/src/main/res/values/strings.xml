@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Du lịch Phú Quý</string>
+    <string name="category_topspots">"THẮNG CẢNH"</string>
+    <string name="category_restaurants">"ĂN UỐNG"</string>
+    <string name="category_religious">"CHỖ Ở"</string>
+    <string name="category_shopping">"MUA SẮM"</string>
+</resources>
